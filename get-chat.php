@@ -28,7 +28,7 @@
             }
         }else{
             $output .= '<div class="text"><center>No messages to show. Start a conversation below.<br>
-            Once you send message they will appear hear.<center></div>';
+            Once you send message they will appear here.<center></div>';
         }
         echo $output;
     }else{
