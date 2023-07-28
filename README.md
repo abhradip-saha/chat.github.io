@@ -1,5 +1,6 @@
 # Description 
 In this chat app the user has to register using name, email, password and an image. These are stored in the table "users" in the database. Later the registered users can login using the registered email and password. Then the user will be directed to the page containing the list of registered users and the user can start a conversation with the registered users. The user can then logout whenever required. 
+
 # Register Page
 ![Screenshot (75)](https://github.com/abhradip-saha/chat.github.io/assets/110524706/d187807d-0b72-4a8a-83c4-583e265c6e65)
 
